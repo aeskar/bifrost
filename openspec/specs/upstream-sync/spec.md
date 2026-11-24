@@ -1,5 +1,9 @@
 # Upstream synchronization
 
+## Purpose
+
+Keep the source fork current while preserving downstream changes.
+
 ## Requirements
 
 ### Requirement: Preserve downstream changes
